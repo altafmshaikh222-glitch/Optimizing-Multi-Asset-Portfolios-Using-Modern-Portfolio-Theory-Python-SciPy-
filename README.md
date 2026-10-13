@@ -1,0 +1,2 @@
+# Optimizing-Multi-Asset-Portfolios-Using-Modern-Portfolio-Theory-Python-SciPy-
+How can quantitative weight allocation transform a 15-stock portfolio compared to broad market benchmarks? 📈  As part of my ongoing work in quantitative finance and portfolio management, I built a Python pipeline (pandas, numpy, scipy.optimize, matplotlib) to analyze a 15-stock equity basket against the market benchmark.
